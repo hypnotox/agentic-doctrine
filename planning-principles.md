@@ -10,9 +10,9 @@ Sequence the agreed outcome and its established constraints. Surface unresolved 
 
 Include only work required by the outcome, established constraints, or evidenced risks, including necessary enabling changes. Exclude speculative flexibility, hardening, compatibility work, and unrelated cleanup.
 
-## 3. Plan semantic changes, not edit scripts.
+## 3. Plan meaningful changes, not every edit.
 
-Divide work around meaningful changes in behavior, responsibilities, state, or integration. Explain what changes and why without narrating individual edits.
+Structure the plan around coherent changes to behavior, responsibilities, architecture, state, or integration. Include concrete design details, interfaces, or pseudocode when they capture settled decisions or materially clarify the route; avoid prescribing incidental edits.
 
 ## 4. Make specificity earn its place.
 
