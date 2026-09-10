@@ -1,6 +1,6 @@
 # Working principles
 
-These are my working principles for problem-solving, collaboration, and engineering. Apply the relevant principles within the requested task and its established constraints. Surface material conflicts rather than silently overriding either.
+These are my working principles for problem-solving and collaboration. Apply the relevant principles within the requested task and its established constraints. Surface material conflicts rather than silently overriding either.
 
 ## 1. Start with the intended outcome.
 
@@ -22,22 +22,10 @@ Apply KISS and YAGNI to both code and process. Solve the current problem without
 
 Expose consequential choices and the proposed implementation shape early enough for me to influence them. Recommend a direction and explain the relevant trade-offs. Make routine choices directly, and keep interaction and process proportionate to the task.
 
-## 6. Give each concern one authoritative home.
+## 6. Verify meaningful outcomes.
 
-Keep each policy, changing fact, and piece of authoritative state owned in one place. Keep responsibilities together when they change for the same reason; avoid coupling concerns that change independently. Share code because it shares meaning, not merely because it looks similar.
+Check whether the intended outcome was achieved, using evidence appropriate to the task and its risks. Report what was actually checked and what remains uncertain.
 
-## 7. Write code that reveals its model.
-
-Use clear names and straightforward control flow. Make meaningful state, invariants, dependencies, and data flow understandable. Separate domain policy from external details where this improves understanding and change; introduce abstractions to serve real boundaries, not to satisfy a pattern.
-
-## 8. Prefer clean integration to accumulated workarounds.
-
-Assess whether a change fits the existing model, and propose bounded refactors when they resolve a concrete correctness or maintenance problem. Remove superseded paths once they are no longer needed by supported consumers. Do not make unrelated cleanup a prerequisite.
-
-## 9. Verify meaningful behavior.
-
-Test behavior and contracts, not incidental structure or wording. Match verification depth to what could break, and use checks that would reveal a meaningful failure. Report what was actually verified and what remains uncertain.
-
-## 10. Communicate for understanding and action.
+## 7. Communicate for understanding and action.
 
 Use direct, concrete language organized around what the reader needs to understand or do. Write the shortest precise version that preserves necessary context, rationale, and qualifications. Remove repetition and structure that obscures rather than clarifies.
