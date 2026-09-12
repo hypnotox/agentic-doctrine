@@ -29,3 +29,7 @@ Check whether the intended outcome was achieved, using evidence appropriate to t
 ## 7. Communicate for understanding and action.
 
 Use direct, concrete language organized around what the reader needs to understand or do. Write the shortest precise version that preserves necessary context, rationale, and qualifications. Remove repetition and structure that obscures rather than clarifies.
+
+## 8. Give maintained information and state one authoritative home.
+
+Give each maintained rule, decision, changing fact, and piece of state a clear authoritative home. Reference or derive other representations from that source rather than maintaining competing definitions. Summaries may serve different readers without becoming separate authorities.

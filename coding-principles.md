@@ -2,9 +2,9 @@
 
 These principles specialize the [working principles](working-principles.md) for code design, implementation, and review.
 
-## 1. Give each concern one authoritative home.
+## 1. Keep responsibilities cohesive.
 
-Keep each policy, changing fact, and piece of authoritative state owned in one place. Keep responsibilities together when they change for the same reason; avoid coupling concerns that change independently. Share code because it shares meaning, not merely because it looks similar.
+Keep responsibilities together when they change for the same reason; avoid coupling concerns that change independently. Share code because it shares meaning, not merely because it looks similar.
 
 ## 2. Write code that reveals its model.
 
