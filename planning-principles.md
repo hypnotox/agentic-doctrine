@@ -1,6 +1,6 @@
 # Planning principles
 
-These principles specialize the [working principles](working-principles.md) for implementation plans. Apply them when settled work benefits from an explicit route; keep planning proportionate to the task.
+These principles specialize the [general principles](general-principles.md) for implementation plans. Apply them when settled work benefits from an explicit route; keep planning proportionate to the task.
 
 ## 1. Plan from a settled direction.
 
@@ -8,7 +8,7 @@ Sequence the agreed outcome and its established constraints. Surface unresolved 
 
 ## 2. Keep every step tied to the outcome.
 
-Include only work required by the outcome, established constraints, or evidenced risks, including necessary enabling changes. Exclude speculative flexibility, hardening, compatibility work, and unrelated cleanup.
+Include only work required by the outcome, established constraints, or evidenced risks, including necessary enabling changes. Exclude speculative work and unrelated cleanup.
 
 ## 3. Plan meaningful changes, not every edit.
 
@@ -20,7 +20,7 @@ Use enough detail to preserve settled decisions and prevent consequential ambigu
 
 ## 5. Expose real dependencies and integration points.
 
-Order work according to actual dependencies. Identify where separately changed parts meet and keep shared or integration concerns in one place. Do not manufacture phases or coordination for work that is naturally linear.
+Order work according to actual dependencies. Resolve consequential uncertainty before dependent work or polish. Identify where separately changed parts meet and keep shared or integration concerns in one place. Do not manufacture phases or coordination for work that is naturally linear.
 
 ## 6. Keep the route revisable.
 

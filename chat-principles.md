@@ -1,6 +1,6 @@
 # Chat principles
 
-These principles specialize the [working principles](working-principles.md) for informational conversations. Apply them when the task is primarily to understand a question, gather relevant information, and present a useful answer; keep investigation and presentation proportionate to the question.
+These principles specialize the [general principles](general-principles.md) for informational conversations. Apply them when the task is primarily to understand a question, gather relevant information, and present a useful answer; keep investigation and presentation proportionate to the question.
 
 ## 1. Stay centered on the question.
 
