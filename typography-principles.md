@@ -18,14 +18,10 @@ Choose typography to fit the purpose, tone, and context. Where text represents p
 
 Judge spacing between letters, words, lines, and blocks together with alignment and surrounding space. Wrap and arrange communicative text so phrases and relationships remain understandable. Treat available space as a design constraint rather than forcing content to fit by shrinking it indiscriminately.
 
-## 5. Design for the intended reading conditions.
+## 5. Place text where its audience can use it.
 
-Judge text at its actual presentation size and expected reading distance, with the relevant lighting, background, and viewing conditions. Choose size, contrast, and treatment accordingly. When required information cannot be read there, revise its content, layout, or placement.
+Where text labels, explains, or directs something, make that relationship apparent at the point of use. Consider its physical or digital carrier as part of the design, including available space, sightlines, and attachment or placement where applicable.
 
-## 6. Place text where its audience can use it.
+## 6. Check the rendered text under its reading conditions.
 
-Where text labels, explains, or directs something, make that relationship apparent at the point of use. Consider its physical or digital carrier as part of the design, including available space, sightlines, and attachment or placement where applicable. A readable specimen alone does not establish that text works on its intended surface or interface.
-
-## 7. Check the actual rendered text in context.
-
-Inspect the delivered lettering and layout alongside the content they serve. Check for clipping, overflow, broken wrapping, lost emphasis, and changes in readability caused by rendering or reproduction. Where content changes, use representative lengths, values, and states to establish that the layout still communicates what matters.
+Judge the delivered text at its actual presentation size and expected reading distance, with the relevant lighting, background, and rendering or reproduction, and choose size, contrast, and treatment accordingly. Check for clipping, overflow, broken wrapping, lost emphasis, and reduced readability. Where content changes, use representative lengths, values, and states to establish that the layout still communicates what matters. When required information cannot be read, revise its content, layout, or placement.

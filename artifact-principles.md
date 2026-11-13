@@ -23,3 +23,7 @@ Choose organization and presentation that help its users find and use what matte
 ## 5. Keep artifacts useful over time.
 
 Maintain information and assets that are meant to stay current. Preserve history when it remains useful, without leaving superseded material looking current.
+
+## 6. Check the artifact where it is used.
+
+Inspect the delivered artifact in the form its consumers will meet it: documents as rendered, with links and references resolving; assets in their target engine, tool, or pipeline. Check that its intended users can find and use what they need. A correct source file does not establish that the delivered artifact works.

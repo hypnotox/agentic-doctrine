@@ -24,12 +24,14 @@ Keep failure distinguishable from valid results. Make error reports identify wha
 
 ## 6. Do not invent defensive requirements.
 
-Base compatibility, validation, security, and recovery on real consumers, established contracts, explicit trust assumptions, and grounded risks. Follow the project’s established stance on defensive development and testing. When none is defined, implementing the agreed behavior and verifying normal operation and relevant edge cases with proportionate checks is sufficient. Broader defenses and coverage need an explicit requirement or a concrete, project-specific risk; surface that risk rather than silently expanding scope.
+Follow the project's established stance on compatibility, validation, security, recovery, and testing. When none is defined, implementing the agreed behavior and verifying normal operation and relevant edge cases with proportionate checks is sufficient. Broader defenses and coverage need an explicit requirement or a concrete, project-specific risk; surface that risk rather than silently expanding scope.
+
+Where code already handles untrusted input, using the platform's safe idiom, such as parameterized queries or context-appropriate escaping, is baseline correctness rather than added defense.
 
 ## 7. Verify behavior and contracts.
 
 Verify agreed outcomes and relevant failure cases using checks appropriate to the change. Each added test or validator should protect an identifiable requirement, real consumer contract, destructive operation, or demonstrated failure.
 
-A test should detect a meaningful violation of behavior or a contract while remaining valid through changes that preserve them. Assert relevant relationships, invariants, and outcomes. Check exact wording, structure, counts, coordinates, or tuning values when those details are themselves requirements or consumer contracts. Otherwise, let them vary and check the semantics they serve. For example, verify that text preserves its configured size rather than pinning the test to today's size.
+A test should detect a meaningful violation of behavior or a contract while remaining valid through changes that preserve them. Assert relevant relationships, invariants, and outcomes. Check exact wording, structure, counts, coordinates, or tuning values when those details are themselves requirements or consumer contracts. Otherwise, let them vary and check the semantics they serve. For example, check that an error identifies the missing file rather than matching its full message.
 
 Keep test arrangements under the test's control when incidental changes to an authored scene or dataset would otherwise break it. When that authored content is itself the requirement or consumed contract, verify the relevant content directly. Preserve checks for meaningful defects when simplifying a suite.

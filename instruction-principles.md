@@ -4,7 +4,7 @@ These principles specialize the [general principles](general-principles.md) for 
 
 ## 1. State the intended behavior directly.
 
-Describe what should happen in concrete terms. Include explanation when it helps the reader understand or apply the instruction.
+Describe what should happen in concrete terms. Include explanation when it helps the reader understand or apply the instruction. Express obligation in words and convey importance through reasons; emphasis such as capitals or repeated warnings tends to be applied beyond its intended scope.
 
 ## 2. Make applicability and obligation clear.
 
@@ -21,3 +21,7 @@ Make clear which content directs behavior and which provides context, explanatio
 ## 5. Keep the guidance coherent.
 
 Treat instructions as a coherent whole. Resolve contradictions, consolidate repeated guidance, and remove instructions that no longer serve a purpose.
+
+## 6. Check guidance against the behavior it produces.
+
+The outcome of guidance is the behavior it produces, not its text. Where that behavior matters, observe whether agents following it act as intended, including in situations where it should not apply. When work reveals a recurring misunderstanding, correction, or friction, fix it at the guidance's authoritative source rather than compensating case by case.

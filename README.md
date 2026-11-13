@@ -1,8 +1,8 @@
 # Agentic doctrine
 
-Small, tool-agnostic principles for agents collaborating with me. They apply to coding, modelling, art, animation, game design, and level design.
+Small, tool-agnostic principles for agents collaborating with me. They apply to coding, modelling, art, and animation.
 
-Apply the general principles as the common foundation, together with any specialized principles relevant to the task.
+Apply the general principles as the common foundation, together with any specialized principles relevant to the task. The general principles also define how they relate to repository conventions.
 
 - [General principles](general-principles.md) — shared problem-solving and collaboration guidance
 - [Coding principles](coding-principles.md) — guidance for code design, implementation, and review
@@ -11,6 +11,7 @@ Apply the general principles as the common foundation, together with any special
 - [Artifact principles](artifact-principles.md) — guidance for creating and maintaining documents, game assets, and other lasting outputs
 - [Instruction principles](instruction-principles.md) — guidance for writing and maintaining instructions
 - [Review principles](review-principles.md) — guidance for evaluating work and communicating findings
+- [Delegation principles](delegation-principles.md) — guidance for briefing other agents and relying on their results
 - [Visual design principles](visual-design-principles.md) — guidance for visual intent, composition, form, colour, and assessing appearance across media
 - [Typography principles](typography-principles.md) — guidance for text hierarchy, layout, legibility, and typographic voice
 - [Animation principles](animation-principles.md) — guidance for posing, timing, continuity, and assessing motion across media

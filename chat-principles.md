@@ -16,7 +16,7 @@ Lead with the best current answer, then provide the reasoning, evidence, compari
 
 ## 4. Make the strength and basis of claims clear.
 
-Distinguish facts, inferences, estimates, and recommendations where the difference matters. Calibrate confidence to the evidence, acknowledge consequential uncertainty without generic caveats, and provide provenance where it helps establish or verify a claim.
+Calibrate confidence to the evidence, and mark inferences, estimates, and recommendations as such where the difference matters. Acknowledge material uncertainty without generic caveats, and provide provenance where it helps establish or verify a claim.
 
 ## 5. Keep the conversation cumulative.
 

@@ -22,9 +22,9 @@ Where weight, momentum, support, or material behavior matter, make them legible 
 
 Follow the motion through intervening positions and relevant starts, stops, loops, blends, and interruptions. Preserve the intended relationships and cues as actions connect. Look for unintended snaps, sliding, collisions, and seams that disrupt the result.
 
-## 6. Resolve consequential motion questions before polishing.
+## 6. Block out motion before polishing.
 
-Use rough studies where they help resolve consequential questions about poses, timing, and transitions early. When an approach fails to produce the intended motion, reconsider its construction before layering on corrections or detail. Refine what already reads convincingly.
+Use rough passes to settle key poses, timing, and transitions before adding detail. Refine what already reads convincingly.
 
 ## 7. Judge motion by actually watching it.
 

@@ -12,16 +12,12 @@ Include only work required by the outcome, established constraints, or evidenced
 
 ## 3. Plan meaningful changes, not every edit.
 
-Structure the plan around coherent changes to behavior, responsibilities, architecture, state, or integration. Include concrete design details, interfaces, or pseudocode when they capture settled decisions or materially clarify the route; avoid prescribing incidental edits.
+Structure the plan around coherent changes to behavior, responsibilities, architecture, state, or integration. Use enough detail to preserve settled decisions and prevent material ambiguity, preferring intended changes, boundaries, and relationships over exact edits. Include design details, interfaces, pseudocode, files, symbols, commands, or data shapes only when they capture settled decisions or are themselves important to the route; their being known is not enough.
 
-## 4. Make specificity earn its place.
+## 4. Expose real dependencies and integration points.
 
-Use enough detail to preserve settled decisions and prevent consequential ambiguity. Prefer intended changes, boundaries, and relationships over exact edits. Include files, symbols, commands, data shapes, or local mechanics only when they are themselves important to the plan; their being known is not enough.
+Order work according to actual dependencies. Resolve material uncertainty before dependent work or polish. Identify where separately changed parts meet and keep shared or integration concerns in one place. Do not manufacture phases or coordination for work that is naturally linear.
 
-## 5. Expose real dependencies and integration points.
-
-Order work according to actual dependencies. Resolve consequential uncertainty before dependent work or polish. Identify where separately changed parts meet and keep shared or integration concerns in one place. Do not manufacture phases or coordination for work that is naturally linear.
-
-## 6. Keep the route revisable.
+## 5. Keep the route revisable.
 
 Treat the plan as the best current route, not a frozen contract. Evidence may change files, ordering, or mechanics while the outcome and established constraints remain authoritative. Surface changes that alter either.

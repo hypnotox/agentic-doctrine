@@ -8,7 +8,7 @@ Establish what the work should communicate, evoke, or invite the viewer to notic
 
 ## 2. Compose the whole before refining its parts.
 
-Arrange the major shapes, masses, spaces, and relationships so the whole supports the intent. Consider balance, rhythm, scale, and negative space before committing to small details. A strong isolated element still needs to work within its composition.
+Arrange the major shapes, masses, spaces, and relationships so the whole supports the intent. Consider balance, rhythm, scale, and negative space before committing to small details, and compare major alternatives with rough studies such as thumbnails, blockouts, or color studies. A strong isolated element still needs to work within its composition.
 
 ## 3. Establish form and proportion deliberately.
 
@@ -30,10 +30,6 @@ Make choices about shapes, marks, edges, color, and detail relate across the wor
 
 Use detail to strengthen form, identity, mood, narrative, texture, or expression. Judge its contribution to the whole rather than treating more detail as better. Functional explanations and visible construction belong where the intended subject or brief requires them.
 
-## 8. Test major choices with rough studies.
-
-Explore consequential visual choices before costly refinement. Use proportionate studies, such as sketches or blockouts, to compare composition, form, and color relationships. Resolve the important uncertainties before polish makes a weak direction expensive to change.
-
-## 9. Judge the actual output in its intended context.
+## 8. Judge the actual output in its intended context.
 
 Inspect the delivered work at the scale, viewpoints, and surroundings in which it will be experienced. Check whether its composition, identity, and intended effect survive presentation and integration. Attractive isolated previews and correct production settings do not establish that result.
