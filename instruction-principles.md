@@ -24,4 +24,4 @@ Treat instructions as a coherent whole. Resolve contradictions, consolidate repe
 
 ## 6. Check guidance against the behavior it produces.
 
-The outcome of guidance is the behavior it produces, not its text. Where that behavior matters, observe whether agents following it act as intended, including in situations where it should not apply. When work reveals a recurring misunderstanding, correction, or friction, fix it at the guidance's authoritative source rather than compensating case by case.
+The outcome of guidance is the behavior it produces, not its text. Where that behavior matters, assess how agents following it would act, including in situations where it should not apply, through review or by observing agents where practical. When work reveals a recurring misunderstanding, correction, or friction, fix it at the guidance's authoritative source when that is within scope, and otherwise recommend that fix, rather than relying on case-by-case compensation.

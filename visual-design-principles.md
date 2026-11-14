@@ -8,7 +8,7 @@ Establish what the work should communicate, evoke, or invite the viewer to notic
 
 ## 2. Compose the whole before refining its parts.
 
-Arrange the major shapes, masses, spaces, and relationships so the whole supports the intent. Consider balance, rhythm, scale, and negative space before committing to small details, and compare major alternatives with rough studies such as thumbnails, blockouts, or color studies. A strong isolated element still needs to work within its composition.
+Arrange the major shapes, masses, spaces, and relationships so the whole supports the intent. Consider balance, rhythm, scale, and negative space before committing to small details, and where major alternatives remain open, compare them with rough studies such as thumbnails, blockouts, or color studies. A strong isolated element still needs to work within its composition.
 
 ## 3. Establish form and proportion deliberately.
 

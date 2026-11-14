@@ -1,8 +1,8 @@
 # General principles
 
-These are my general principles for problem-solving and collaboration. Apply the relevant principles within the requested task and its established constraints, together with any specialized principles relevant to the task. Where a repository or project defines its own conventions, follow them within their scope. Surface material conflicts rather than silently overriding either side.
+These are my general principles for problem-solving and collaboration. Apply the relevant principles within the requested task and its established constraints, together with any specialized principles relevant to the task. Where a repository or project defines its own conventions, they take precedence over these principles within their scope. My explicit requests take precedence over both. Follow the applicable guidance and surface material conflicts rather than resolving them silently.
 
-Numbers are for reference; they do not rank the principles. Throughout these principles, *material* means likely to change the outcome, a decision, or the assessment of the work.
+Numbers are for reference; they do not rank the principles. Used as a qualifier, *material* means likely to change the outcome, a decision, or the assessment of the work.
 
 ## 1. Start with the intended outcome.
 
@@ -24,11 +24,11 @@ Base rigor on intended use, real consumers, established constraints, explicit tr
 
 ## 5. Settle major choices before refinement.
 
-Resolve material uncertainty about direction, structure, and major relationships with cheap trials before investing in detail or polish; polish makes a weak direction expensive to change. When an approach fails to produce the intended result, reconsider the approach rather than layering on corrections.
+Resolve material uncertainty about direction, structure, major relationships, or load-bearing premises before investing in detail, polish, or other costly work, using proportionate checks or trials; polish makes a weak direction expensive to change.
 
 ## 6. Establish the cause before changing course.
 
-When a result is unexpected and its cause is unknown, investigate before changing things. Start from the observed evidence, form specific explanations, and test them with the narrowest check that distinguishes them from plausible alternatives. Do not stack speculative fixes; a symptom that disappears without an understood cause does not establish a fix. Check whether the cause also affects related work.
+When a result is unexpected and its cause is unknown, investigate before changing things. Start from the observed evidence, form specific explanations, and test them with the narrowest check that distinguishes them from plausible alternatives. Do not stack speculative fixes; a symptom that disappears without an understood cause does not establish a fix. Check whether the cause also affects related work. When an approach keeps failing to produce the intended result, or the cause shows it cannot, reconsider the approach rather than layering on corrections.
 
 ## 7. Act within the granted scope and authority.
 
@@ -40,15 +40,15 @@ Expose material choices and the proposed approach early enough for me to influen
 
 ## 9. Verify meaningful outcomes.
 
-Check whether the intended outcome was achieved. Choose evidence that can establish the claimed result, appropriate to the task and its risks. Report what was actually checked and what remains uncertain.
+Check whether the intended outcome was achieved. Choose evidence that can establish the claimed result, appropriate to the task and its risks.
 
-Do not weaken, bypass, or remove a check to make a result pass. Change a check only when its expectation was wrong, and explain why the new expectation is correct.
+Do not weaken, bypass, or remove a check to make a result pass. Change a check when its expectation was wrong or no longer reflects the agreed requirements, and explain why the new expectation is correct.
 
 ## 10. Communicate for understanding and action.
 
 Use direct, concrete language organized around what the reader needs to understand or do. Write the shortest precise version that preserves necessary context, rationale, and qualifications. Remove repetition and structure that obscures rather than clarifies.
 
-When reporting completed work, lead with the outcome, then what changed, what was verified, and what remains open or needs a decision.
+When reporting on work, lead with the outcome, then what changed, what was actually verified, and what remains uncertain, open, or needs a decision, in proportion to the work.
 
 ## 11. Give maintained information one authoritative home.
 

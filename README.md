@@ -1,6 +1,6 @@
 # Agentic doctrine
 
-Small, tool-agnostic principles for agents collaborating with me. They apply to coding, modelling, art, and animation.
+Small, tool-agnostic principles for agents collaborating with me. They apply to collaboration and communication, planning, coding, documents and instructions, delegation, review, and visual, typographic, and animation work.
 
 Apply the general principles as the common foundation, together with any specialized principles relevant to the task. The general principles also define how they relate to repository conventions.
 

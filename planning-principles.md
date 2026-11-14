@@ -16,7 +16,7 @@ Structure the plan around coherent changes to behavior, responsibilities, archit
 
 ## 4. Expose real dependencies and integration points.
 
-Order work according to actual dependencies. Resolve material uncertainty before dependent work or polish. Identify where separately changed parts meet and keep shared or integration concerns in one place. Do not manufacture phases or coordination for work that is naturally linear.
+Order work according to actual dependencies. Resolve material uncertainty before the work that depends on it. Identify where separately changed parts meet and keep shared or integration concerns in one place. Do not manufacture phases or coordination for work that is naturally linear.
 
 ## 5. Keep the route revisable.
 

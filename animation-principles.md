@@ -24,7 +24,7 @@ Follow the motion through intervening positions and relevant starts, stops, loop
 
 ## 6. Block out motion before polishing.
 
-Use rough passes to settle key poses, timing, and transitions before adding detail. Refine what already reads convincingly.
+Where key poses, timing, or transitions are not yet settled, use rough passes to settle them before adding detail. Refine what already reads convincingly.
 
 ## 7. Judge motion by actually watching it.
 

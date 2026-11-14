@@ -26,7 +26,7 @@ Keep failure distinguishable from valid results. Make error reports identify wha
 
 Follow the project's established stance on compatibility, validation, security, recovery, and testing. When none is defined, implementing the agreed behavior and verifying normal operation and relevant edge cases with proportionate checks is sufficient. Broader defenses and coverage need an explicit requirement or a concrete, project-specific risk; surface that risk rather than silently expanding scope.
 
-Where code already handles untrusted input, using the platform's safe idiom, such as parameterized queries or context-appropriate escaping, is baseline correctness rather than added defense.
+Where code handles input that is untrusted under the relevant trust assumptions, using the platform's safe idiom, such as parameterized queries or context-appropriate escaping, is baseline correctness rather than added defense.
 
 ## 7. Verify behavior and contracts.
 
